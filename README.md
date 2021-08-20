@@ -15,6 +15,5 @@
 - Power BI, Tableau
 - My brain to think about problems deeply :monkey_face:
 - A positive mindset 😄
-- Hunger/desire (helps to ship small iterative chunks of work 🐐).
-
+- Hunger and tons of work :fork_and_knife::spaghetti:
 
